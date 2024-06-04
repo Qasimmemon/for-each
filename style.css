@@ -1,0 +1,32 @@
+.h1{
+    font-size: 30px;
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+}
+.center{
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+}
+.h_1{
+    font-size: 30px;
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+}
+hr{
+    color: grey;
+}
+.h_1{
+    text-decoration: underline;
+}
+.box_img{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    height: 250px;
+    width: 250px;
+    gap: 55px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
