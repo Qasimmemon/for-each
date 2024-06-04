@@ -327,10 +327,10 @@ shoe.innerHTML += div3;
 //   img = img1
 // })
 
-var img_main = document.getElementById('img_main');
-var img_1 = document.getElementById("img_1");
-var img_2 = document.getElementById("img_2");
-var img_3 = document.getElementById("img_3");
+//var img_main = document.getElementById('img_main');
+//var img_1 = document.getElementById("img_1");
+//var img_2 = document.getElementById("img_2");
+//var img_3 = document.getElementById("img_3");
 
 
 // img_1.addEventListener('mouseover', function () {
@@ -354,7 +354,7 @@ var img_3 = document.getElementById("img_3");
 //     img_2.style.border = "none"; 
 
 // });
-    img_1.addEventListener('click', function () {
-      img_main.src = this.src;
-    this.style.border = "2px solid blue";
-    })
+   // img_1.addEventListener('click', function () {
+     // img_main.src = this.src;
+    //this.style.border = "2px solid blue";
+    //})
